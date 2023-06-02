@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'avatarresize' => 'This avatar will be resized to :width x :height pixels',
+    'avatarresize' => '这个头像将被调整尺寸为:width x :height 像素',
 
     'newapikey'       => '创建新的API密钥',
     'your-profile'    => '您的个人档案',
