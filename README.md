@@ -47,4 +47,4 @@ APP_LOCALE=cn
 # <sup>All the things can't fully ensure that it always works well</sup>
 
 ### If you find any problems,you can file issues then let me solve it.
-### Also git push to be added in "Contributor"
+### Also git push to be added in "Contributor".
